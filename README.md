@@ -10,8 +10,8 @@ Developed by the [BiNGS Core](https://bings.mssm.edu/) at the Tisch Cancer Insti
   - [Option 1: CodeServer (OnDemand) Setup](#option-1-codeserver-ondemand-setup)
   - [Option 2: VSCode Desktop App Setup](#option-2-vscode-desktop-app-setup)
 - Running Scripts
-  - [Bash Scripts](#bash-scripts)
-  - [R Scripts](#r-scripts)
+  - [Bash Scripts](#bash-scripts-(A1-9.sh))
+  - [R Scripts](#r-scripts-(B1/B2/C/D.R))
 - [Good Practices](#-good-practices)
 - [Troubleshooting](#%EF%B8%8F-troubleshooting)
   - ["403 Forbidden" error while running the A1 script](#403-forbidden-error-while-running-the-a1-script)
