@@ -24,7 +24,7 @@ Developed by the [BiNGS Core](https://bings.mssm.edu/) at the Tisch Cancer Insti
 
 ```bash
 cd /your/working/directory/
-git clone https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline.git
+git clone https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline.git
 ```
 
 ---
@@ -43,7 +43,7 @@ git clone https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline.git
 ```bash
 mkdir ./rna_seq_pipeline_test
 cd ./rna_seq_pipeline_test
-git clone https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline.git
+git clone https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline.git
 ```
 
 > For steps after cloning, begin with `A1.prepare_files.sh` and follow the prompts.
@@ -69,7 +69,7 @@ bsub -P <your_project_account> -q premium -n 10 -W 4:00 -R span[hosts=1] -R rusa
 ```bash
 mkdir ./rna_seq_pipeline_test
 cd ./rna_seq_pipeline_test
-git clone https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline.git
+git clone https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline.git
 ```
 
 3. **Start running from Step A1.**
@@ -140,14 +140,14 @@ Please check out the Minerva job submission documentation for troubleshooting ls
 ## 📫 Questions?
 
 If you encounter an issue or have a feature request, please open an **Issue** on the GitHub repository:  
-👉 [https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline/issues](https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline/issues)
+👉 [https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline/issues](https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline/issues)
 
 ---
 
 ## 📚 Citation
 
 Ulukaya, G. B. (2025). *BiNGS-Bulk-RNA-seq-pipeline: An end-to-end bulk RNA-seq analysis pipeline* (Version 1.0) [Software]. GitHub.  
-https://github.com/GulayBenguUlukaya/BiNGS-Bulk-RNA-seq-pipeline
+https://github.com/bings-core/BiNGS-Bulk-RNA-seq-pipeline
 
 > A lot of time and effort went into developing this pipeline. Please cite this material if it contributed to your research.
 
